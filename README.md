@@ -25,11 +25,11 @@ The images used in the port are mostly PNGs using indexed colour (with a very li
 ### fonts
 
 Much like the images several fonts are embedded in the file using base64. They're included here as separate files for reference (they're all covered by the Open Font Licence)
--Alegreya SC
--Libre Baskerville
--Gruppo
--Geostar Fill
--VT323
+* Alegreya SC
+* Libre Baskerville
+* Gruppo
+* Geostar Fill
+* VT323
 
 ### misc
 
