@@ -1,7 +1,6 @@
 # Heart of Ice - Dave Morris
 
-In 2018 I ported the classic gamebook from my childhood in the '90s. It was written in Sugarcube (a JS-based language for the TWINE interactive fiction tool)
-and the various art assets are from a combination of the original and the reprint. The port will run in any contemporary browser (at the time of writing).
+In 2018 I ported the classic gamebook from my childhood in the '90s. It was written in Sugarcube (a JS-based language for the TWINE interactive fiction tool) and the various art assets are from a combination of the original and the reprint. The port will run in any contemporary browser (at the time of writing).
 
 If you'd like to look at the code simply import the latest revision in Twine. I've also included the local copy of the game that Twine uses.
 
