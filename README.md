@@ -1,20 +1,21 @@
-#Heart of Ice - Dave Morris
+# Heart of Ice - Dave Morris
 
 In 2018 I ported the classic gamebook from my childhood in the '90s. It was written in Sugarcube (a JS-based language for the TWINE interactive fiction tool)
 and the various art assets are from a combination of the original and the reprint. The port will run in any contemporary browser (at the time of writing).
 
 If you'd like to look at the code simply import the latest revision in Twine. I've also included the local copy of the game that Twine uses.
 
-There's a bit more on the port's release over on Dave Morris' blog:
-https://fabledlands.blogspot.com/2018/12/warm-heart.html
+There's a bit more on the port's release over [on Dave Morris' blog]
+(https://fabledlands.blogspot.com/2018/12/warm-heart.html).
 
 ## Files:
 
 ### sound
 
 Various sound files used in the game in a variety of formats.
-271453_4190771-hq.mp3 is from here - https://freesound.org/people/bdunis4/sounds/271453/ (CC0 licence)
-flash_whine.mp3 is from here - https://freesound.org/people/MichelleGrobler/sounds/410559/ (CC0 licence)
+
+* 271453_4190771-hq.mp3 is from [here](https://freesound.org/people/bdunis4/sounds/271453/) (CC0 licence)
+* flash_whine.mp3 is from [here](https://freesound.org/people/MichelleGrobler/sounds/410559/) (CC0 licence)
 
 ### artwork
 
