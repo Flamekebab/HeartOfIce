@@ -1,6 +1,6 @@
-# Heart of Ice - Dave Morris
+# Dave Morris' Heart of Ice Twine port
 
-In 2018 I ported the classic gamebook from my childhood in the '90s. It was written in [Sugarcube](https://www.motoslave.net/sugarcube/2/) (a JS-based language for the [Twine interactive fiction tool](http://twinery.org/)) and the various art assets are from a combination of the original and the reprint. The port will run in any contemporary browser (at the time of writing).
+In 2018 I ported [the classic gamebook](https://www.goodreads.com/book/show/19167324-heart-of-ice) from my childhood in the '90s. It was written in [Sugarcube](https://www.motoslave.net/sugarcube/2/) (a JS-based language for the [Twine interactive fiction tool](http://twinery.org/)) and the various art assets are from a combination of the original and the reprint. The port will run in any contemporary browser (at the time of writing).
 
 If you'd like to look at the code simply import the latest revision in Twine. I've also included the local copy of the game that Twine uses.
 
@@ -10,8 +10,9 @@ There's a bit more on the port's release over [on Dave Morris' blog](https://fab
 
 ### sound
 
-Various sound files used in the game in a variety of formats.
+Various sound files used in the game in a variety of formats. I don't recall why one is in Opus and the others are in MP3. It may well have been a compatibility choice (Opus being my codec of choice for low-bitrate audio).
 
+In there are two files used to make some of the other sound effects:
 * 271453_4190771-hq.mp3 is from [here](https://freesound.org/people/bdunis4/sounds/271453/) (CC0 licence)
 * flash_whine.mp3 is from [here](https://freesound.org/people/MichelleGrobler/sounds/410559/) (CC0 licence)
 
