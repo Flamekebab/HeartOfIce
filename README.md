@@ -5,8 +5,7 @@ and the various art assets are from a combination of the original and the reprin
 
 If you'd like to look at the code simply import the latest revision in Twine. I've also included the local copy of the game that Twine uses.
 
-There's a bit more on the port's release over [on Dave Morris' blog]
-(https://fabledlands.blogspot.com/2018/12/warm-heart.html).
+There's a bit more on the port's release over [on Dave Morris' blog](https://fabledlands.blogspot.com/2018/12/warm-heart.html).
 
 ## Files:
 
